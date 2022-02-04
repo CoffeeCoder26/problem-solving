@@ -1,2 +1,2 @@
 # Problem-Sloving 
-## Solving Problrms With Java and C++
+## Solving Problems With Java and C++
